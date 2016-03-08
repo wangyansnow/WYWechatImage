@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		73EAF5981C8ED4E200D87101 /* WYArrowImageTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 73EAF5971C8ED4E200D87101 /* WYArrowImageTool.m */; };
 		E3C38E811BD8887E0062B34A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = E3C38E801BD8887E0062B34A /* main.m */; };
 		E3C38E841BD8887E0062B34A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = E3C38E831BD8887E0062B34A /* AppDelegate.m */; };
 		E3C38E871BD8887E0062B34A /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = E3C38E861BD8887E0062B34A /* ViewController.m */; };
@@ -16,6 +17,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		73EAF5961C8ED4E200D87101 /* WYArrowImageTool.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WYArrowImageTool.h; sourceTree = "<group>"; };
+		73EAF5971C8ED4E200D87101 /* WYArrowImageTool.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WYArrowImageTool.m; sourceTree = "<group>"; };
 		E3C38E7C1BD8887E0062B34A /* WechatImageDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WechatImageDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E3C38E801BD8887E0062B34A /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		E3C38E821BD8887E0062B34A /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -39,6 +42,15 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		73EAF5951C8ED3C800D87101 /* WYArrowTool */ = {
+			isa = PBXGroup;
+			children = (
+				73EAF5961C8ED4E200D87101 /* WYArrowImageTool.h */,
+				73EAF5971C8ED4E200D87101 /* WYArrowImageTool.m */,
+			);
+			path = WYArrowTool;
+			sourceTree = "<group>";
+		};
 		E3C38E731BD8887E0062B34A = {
 			isa = PBXGroup;
 			children = (
@@ -58,6 +70,7 @@
 		E3C38E7E1BD8887E0062B34A /* WechatImageDemo */ = {
 			isa = PBXGroup;
 			children = (
+				73EAF5951C8ED3C800D87101 /* WYArrowTool */,
 				E3C38E821BD8887E0062B34A /* AppDelegate.h */,
 				E3C38E831BD8887E0062B34A /* AppDelegate.m */,
 				E3C38E851BD8887E0062B34A /* ViewController.h */,
@@ -150,6 +163,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E3C38E871BD8887E0062B34A /* ViewController.m in Sources */,
+				73EAF5981C8ED4E200D87101 /* WYArrowImageTool.m in Sources */,
 				E3C38E841BD8887E0062B34A /* AppDelegate.m in Sources */,
 				E3C38E811BD8887E0062B34A /* main.m in Sources */,
 			);
@@ -298,6 +312,7 @@
 				E3C38E951BD8887E0062B34A /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
