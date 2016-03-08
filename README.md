@@ -4,8 +4,8 @@
 ## 如何使用WYArrowImage ##
 
 - 手动导入:
-* 将`WYArrowTool`整个文件夹拖入到项目中
-* 导入头文件: `WYArrowToo.h`
+    * 将`WYArrowTool`整个文件夹拖入到项目中
+    * 导入头文件: `WYArrowToo.h`
 
 ## 在代码中如何使用 ##
 ```objctive-c
@@ -23,5 +23,5 @@
     [self.view addSubview:rightImageView];
 ```
 ### 效果图 ###
-
+![image](https://github.com/wangyansnow/WYWechatImage/raw/master/ArrowScreen.png)
 
