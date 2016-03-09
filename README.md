@@ -1,5 +1,5 @@
 # WYWechatImage #
-高仿微信的尖角图片
+轻松实现微信的尖角图片
 
 ## 如何使用WYArrowImage ##
 
@@ -8,7 +8,7 @@
     * 导入头文件: `WYArrowToo.h`
 
 ## 在代码中如何使用 ##
-```objctive-c
+```objective-c
     UIImage *image = [UIImage imageNamed:@"ball"];
 
     // 左尖角
