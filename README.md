@@ -23,5 +23,5 @@
     [self.view addSubview:rightImageView];
 ```
 ### 效果图 ###
-![image](http://github.com/wangyansnow/WYWechatImage/raw/master/WechatImageDemo/ReadMeImage/arrow.png)
+![image](https://github.com/wangyansnow/WYWechatImage/raw/master/WechatImageDemo/ReadMeImage/arrow.png)
 
