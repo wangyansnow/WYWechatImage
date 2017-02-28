@@ -25,3 +25,6 @@
 ### 效果图 ###
 <img src="https://github.com/wangyansnow/WYWechatImage/raw/master/WechatImageDemo/ReadMeImage/arrow.png" width=320 height=576>
 
+- cocoapods:
+	* `pod 'WYWechatImage'`
+
