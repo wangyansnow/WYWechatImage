@@ -6,6 +6,8 @@
 - 手动导入:
     * 将`WYArrowTool`整个文件夹拖入到项目中
     * 导入头文件: `WYArrowToo.h`
+- cocoapods:
+    * `pod 'WYWechatImage'`
 
 ## 在代码中如何使用 ##
 ```objective-c
@@ -24,7 +26,4 @@
 ```
 ### 效果图 ###
 <img src="https://github.com/wangyansnow/WYWechatImage/raw/master/WechatImageDemo/ReadMeImage/arrow.png" width=320 height=576>
-
-- cocoapods:
-	* `pod 'WYWechatImage'`
 
